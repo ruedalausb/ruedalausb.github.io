@@ -41,7 +41,7 @@
 }
 
 .circulosControl{
-  margin-top: 150px;
+  margin-top: 75px;
   margin-bottom: 150px;
 }
 
@@ -65,4 +65,10 @@
 .tituloCirculo{
     font-size: 18px;
     padding-top: 60px;
+}
+
+.imagenCirculo {
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
 }
