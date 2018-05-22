@@ -96,3 +96,24 @@ ul {
 	text-align: center;
 	list-style: none;
 }
+
+.tituloComponentes {
+	text-align: center;
+}
+
+.videoWrapper {
+	margin-top: 5em;
+	text-align: center;
+}
+
+.parrafoComponentes {
+	margin-top: 5em;
+	text-align: justify;
+	padding-right: 6em;
+	font-size: 1.3em;
+}
+
+.imageWrapper {
+	width: 45em;
+	margin-top: 12em;
+}
