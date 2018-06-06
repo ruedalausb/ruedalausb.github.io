@@ -1,0 +1,36 @@
+.tituloComponentes {
+  margin-top: 2em;
+	text-align: center;
+  font-size: 2.5em;
+}
+
+.videoWrapper {
+	margin-top: 5em;
+	text-align: center;
+}
+
+.parrafoComponentes {
+	margin-top: 5em;
+	text-align: justify;
+	padding-right: 6em;
+	font-size: 1.3em;
+}
+
+.parrafoComponentesWide {
+	margin-top: 5em;
+	text-align: justify;
+	padding-left: 8em;
+	font-size: 1.3em;
+}
+
+.imageWrapper {
+	width: 32em;
+	margin-top: 12em;
+  padding-right: 3em;
+}
+
+.imageWrapperWide {
+  width: 35em;
+  margin-top: 8em;
+  padding-right: 3em;
+}
