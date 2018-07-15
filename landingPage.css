@@ -58,10 +58,21 @@
     line-height: 20px;
 }
 
-.tituloCirculo{
+.tituloCirculo1{
     font-size: 18px;
-    padding-top: 60px;
+    padding-top: 40px;
 }
+
+.tituloCirculo2{
+    font-size: 18px;
+    padding-top: 40px;
+}
+
+.tituloCirculo3{
+    font-size: 18px;
+    padding-top: 80px;
+}
+
 
 .cicloteca{
   height: 550px;
